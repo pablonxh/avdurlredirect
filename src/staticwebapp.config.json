@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://windows.cloud.microsoft",
+      "statusCode": 302
+    }
+  ]
+}
